@@ -4,7 +4,8 @@ int main(){
     
     scanf("%d %d",&a,&b);
     
-      printf("%d is smallest",(a<b)?a:a);  
+      printf("%d is smallest",(a<b)?a:b);  
 
     return 0;
+
 }
