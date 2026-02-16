@@ -7,16 +7,17 @@ int main(){
         printf("result=%d",a+b);
         break;
         case 2:
-        printf("result=%d,a-b");
+        printf("result=%d",a-b);
         break;
         case 3:
-        printf("result=%d,a\b");
+        printf("result=%d",a\b);
         break;
         case 4:
-        printf("result=%d,a*b");
+        printf("result=%d",a*b);
         break;
         default:
     }
     
     return 0;
+
 }
